@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Charannsai 👋
 
-<!--
-**Charannsai/charannsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a love for creating innovative solutions.
 
-Here are some ideas to get you started:
+## Key Projects
+- **[Project Name](link-to-project)**: Brief description of what the project is about and what technologies were used.
+- **[Another Project](link-to-project)**: Brief description of the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: Python, JavaScript, C.
+- **Frameworks and Libraries**: React, Node.js, Flask, Pandas, Seaborn, Matplotlib, pyTorch.
+- **Tools**: Git.
+
+## Get in Touch
+- [LinkedIn](www.linkedin.com/in/charan-sai-pathuri-177a9a282)
