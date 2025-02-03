@@ -1,7 +1,9 @@
 # Hi there, I'm Charannsai 👋
 
-## About Me
-I'm a passionate developer with a love for creating innovative solutions 😊.
+## About Me 😊
+- I'm a passionate developer with a love for creating innovative solutions. 
+- Working on various cutting-edge applications which serve and solve real world problems. 
+- Have Interest and Learning AIML.
 
 
 ## Skills ✨
