@@ -12,4 +12,4 @@
 - **Tools**: Git.
 
 ## Get in Touch
-- [LinkedIn](www.linkedin.com/in/charan-sai-pathuri-177a9a282)
+- [LinkedIn](charan-sai-pathuri-177a9a282)
