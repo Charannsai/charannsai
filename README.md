@@ -11,5 +11,11 @@
 - **Frameworks and Libraries**: React, Node.js, Flask, Pandas, Seaborn, Matplotlib, pyTorch.
 - **Tools**: Git.
 
+
+## Currently Building:
+- **EventOrgX**
+- **RapidUix**
+
+
 ## Get in Touch
 - [LinkedIn](charan-sai-pathuri-177a9a282)
