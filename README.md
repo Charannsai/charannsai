@@ -40,8 +40,8 @@ A UI component library for **React Native** and **Flutter**, providing reusable,
 
 ## 📈 Stats & Achievements 🎯
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charannsai&show_icons=true&count_private=true&hide=prs&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charannsai&langs_count=8&theme=dark)
 
 ### Achievements:
 - 💻 **Built and launched multiple full-stack applications** solving real-world challenges.
