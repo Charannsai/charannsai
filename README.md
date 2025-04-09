@@ -12,6 +12,7 @@ Welcome to my GitHub! 🚀 I'm a developer passionate about building innovative 
 ### **Languages:**
 - 🐍 **Python**: Expertise in data analysis, automation, and AI.
 - 🌐 **JavaScript**: Full-stack web development with frameworks like **React** & **Node.js**.
+- 💻 **C**: Strong foundation in systems programming and performance-critical applications.
 
 ### **Frameworks & Libraries:**
 - ⚛️ **React**: Building dynamic, user-friendly web interfaces.
@@ -32,10 +33,14 @@ A platform that automates **certificate generation** for organizations. It handl
 ### **[RapidUix](#)** ⚡
 A UI component library for **React Native** and **Flutter**, providing reusable, customizable components that make mobile development faster and easier.
 
+## 🌐 Website & Portfolio 🌍
+Check out my personal website to explore more about me, my work, and my projects:
+- **Website**: [charanfolio.me](https://charanfolio.me)
+
 ## 🌐 Let’s Connect & Collaborate! 🤝
 
 - 💬 **LinkedIn**: [Charannsai on LinkedIn](https://www.linkedin.com/in/charan-sai-pathuri-177a9a282)
-- 💬 **Instagram**: [Charannsai on LinkedIn](https://www.instagram.com/saircasticc)
+- 💬 **Instagram**: [Charannsai on Instagram](https://www.instagram.com/saircasticc)
 - 🌍 **Explore My Projects**: Browse my repositories, check out my code, and feel free to contribute to any projects.
 
 ### Achievements:
