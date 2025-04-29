@@ -27,7 +27,7 @@ Welcome to my GitHub! 🚀 I'm a developer passionate about building innovative 
 - 🔧 **Jupyter**: Data science and AI experimentation.
 
 ## 🚧 Currently Building:
-### **[EventOrgX](#https://charanfolio.site)** 🚀
+### **[EventOrgX](https://charanfolio.site)** 🚀
 A platform that automates **certificate generation** for organizations. It handles everything from form submissions to automatic certificate emails, streamlining event management.
 
 ### **[RapidUix](#)** ⚡
