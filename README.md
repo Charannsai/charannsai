@@ -30,7 +30,7 @@ Welcome to my GitHub! 🚀 I'm a developer passionate about building innovative 
 ### **[EventOrgX](https://charanfolio.site)** 🚀
 A platform that automates **certificate generation** for organizations. It handles everything from form submissions to automatic certificate emails, streamlining event management.
 
-### **[RapidUix](#)** ⚡
+### **[RapidUix](https://rapiduix.tech)** ⚡
 A UI component library for **React Native** and **Flutter**, providing reusable, customizable components that make mobile development faster and easier.
 
 ## 🌐 Website & Portfolio 🌍
