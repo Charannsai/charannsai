@@ -12,7 +12,7 @@ Welcome to my GitHub! 🚀 I'm a developer passionate about building innovative 
 ### **Languages:**
 - 🐍 **Python**: Expertise in data analysis, automation, and AI.
 - 🌐 **JavaScript**: Full-stack web development with frameworks like **React** & **Node.js**.
-- 💻 **C**: Strong foundation in systems programming and performance-critical applications.
+- 💻 **C**: Strong foundation in Basics and syntax of programming.
 
 ### **Frameworks & Libraries:**
 - ⚛️ **React**: Building dynamic, user-friendly web interfaces.
