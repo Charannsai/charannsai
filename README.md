@@ -48,14 +48,10 @@ Check out my personal website to explore more about me, my work, and my projects
 - 🎓 **Graduated with a specialization in AI** and applied machine learning in real projects.
 - 🏆 **Contributed to open-source projects** on GitHub, collaborating with other developers on meaningful solutions.
 
-## 🌍 Get Involved in My Projects 🤝
-
-- 🚀 **Contribute**: Feel free to submit pull requests, open issues, or collaborate on any of my ongoing projects.
-- 📝 **Documentation**: I believe in well-documented projects! Check out the docs in any of my repositories to understand how things work or how to contribute.
 
 ## 🛠️ Tools I Use:
 - **IDE**: VS Code, PyCharm
-- **Version Control**: GitHub, GitLab
+- **Version Control**: GitHub, GitLab, Git
 - **Deployment**: Vercel, Heroku, Docker
 - **Design**: Figma, Canva for UI/UX design
 
