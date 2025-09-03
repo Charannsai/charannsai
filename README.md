@@ -27,11 +27,9 @@ Welcome to my GitHub! 🚀 I'm a developer passionate about building innovative 
 - 🔧 **Jupyter**: Data science and AI experimentation.
 
 ## 🚧 Currently Building:
-### **[EventOrgX](https://charanfolio.site)** 🚀
-A platform that automates **certificate generation** for organizations. It handles everything from form submissions to automatic certificate emails, streamlining event management.
+### **[Ezent](https://ezent.me)** 🚀
 
-### **[RapidUix](https://rapiduix.tech)** ⚡
-A UI component library for **React Native** and **Flutter**, providing reusable, customizable components that make mobile development faster and easier.
+### **[Clowd](https://clowd.me)** ⚡
 
 ## 🌐 Website & Portfolio 🌍
 Check out my personal website to explore more about me, my work, and my projects:
@@ -50,7 +48,7 @@ Check out my personal website to explore more about me, my work, and my projects
 
 
 ## 🛠️ Tools I Use:
-- **IDE**: VS Code, PyCharm
+- **IDE**: VS Code, PyCharm, Jupyter
 - **Version Control**: GitHub, GitLab, Git
 - **Deployment**: Vercel, Heroku, Docker
 - **Design**: Figma, Canva for UI/UX design
