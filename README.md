@@ -28,7 +28,7 @@ Welcome to my GitHub profile. I’m a developer passionate about building innova
 
 ## Website & Portfolio
 Explore more about my work and projects:
-- **Website**: https://charanfolio.me  
+- **Website**: https://charansai.site
 
 ## Connect & Collaborate
 - **LinkedIn**: https://www.linkedin.com/in/charan-sai-pathuri-177a9a282  
