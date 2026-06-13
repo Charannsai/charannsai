@@ -1,6 +1,8 @@
-# Hi, I’m Charan Sai
+# Hi, I'm Charan Sai
 
-Welcome to my GitHub profile. I’m a developer passionate about building innovative, scalable solutions that create real-world impact. My current focus is on exploring **Artificial Intelligence** and **Machine Learning**, and applying them through practical, problem-driven projects.
+![Profile Views](https://komarev.com/ghpvc/?username=Charannsai&label=Profile%20views&color=0e75b6&style=flat)
+
+Welcome to my GitHub profile. I'm a developer passionate about building innovative, scalable solutions that create real-world impact. My current focus is on exploring **Artificial Intelligence** [...]
 
 ## About Me
 - **Innovative Problem Solver**: I enjoy designing and building applications that address real-world challenges with thoughtful, efficient solutions.
@@ -47,7 +49,7 @@ Explore more about my work and projects:
 - **Design**: Figma, Canva  
 
 ## Interests
-Outside of development, I enjoy learning about new advancements in AI/ML, reading technical blogs, exploring emerging frameworks, and solving coding challenges on platforms like LeetCode and HackerRank.
+Outside of development, I enjoy learning about new advancements in AI/ML, reading technical blogs, exploring emerging frameworks, and solving coding challenges on platforms like LeetCode and Hacke[...]
 
 ---
 
