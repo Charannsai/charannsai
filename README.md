@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Charan Sai
+# Hi, I'm Charan Sai
 
 <div align="center">
   
@@ -9,30 +9,30 @@
 
 ---
 
-Welcome to my GitHub profile. I'm a developer passionate about building innovative, scalable solutions that create real-world impact. My current focus is on exploring **Artificial Intelligence** 🤖 and **Machine Learning** 🧠
+Welcome to my GitHub profile. I'm a developer passionate about building innovative, scalable solutions that create real-world impact. My current focus is on exploring **Artificial Intelligence** and **Machine Learning**.
 
 <div align="center">
   
   <samp>
-    <b>📍 Building | 🎓 Learning | 🚀 Growing</b>
+    <b>Building | Learning | Growing</b>
   </samp>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎯 **Innovative Problem Solver**: I enjoy designing and building applications that address real-world challenges with thoughtful, efficient solutions.
-- 🤖 **Exploring AI & Machine Learning**: Actively learning and experimenting with AI/ML concepts to apply them in real-world use cases.
-- 📚 **Continuous Learner**: Constantly improving my skills and staying up to date with modern technologies and best practices.
-- 💡 **Full-Stack Developer**: Proficient in building end-to-end solutions from backend to frontend.
+- **Innovative Problem Solver**: I enjoy designing and building applications that address real-world challenges with thoughtful, efficient solutions.
+- **Exploring AI & Machine Learning**: Actively learning and experimenting with AI/ML concepts to apply them in real-world use cases.
+- **Continuous Learner**: Constantly improving my skills and staying up to date with modern technologies and best practices.
+- **Full-Stack Developer**: Proficient in building end-to-end solutions from backend to frontend.
 
 ---
 
-## 🛠️ Skills & Expertise
+## Skills & Expertise
 
-### 💻 Languages
+### Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,7 +41,7 @@ Welcome to my GitHub profile. I'm a developer passionate about building innovati
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### 🎨 Frameworks & Libraries
+### Frameworks & Libraries
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -50,7 +50,7 @@ Welcome to my GitHub profile. I'm a developer passionate about building innovati
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -61,16 +61,16 @@ Welcome to my GitHub profile. I'm a developer passionate about building innovati
 
 ---
 
-## 🌟 Achievements
+## Achievements
 
-- 🚀 Built and launched multiple full-stack applications addressing real-world problems
-- 🎓 Graduated with a specialization in Artificial Intelligence and applied ML concepts in practical projects
-- 🤝 Contributed to open-source projects and collaborated with developers on GitHub
-- 📈 Continuously growing my skillset and tackling challenging projects
+- Built and launched multiple full-stack applications addressing real-world problems
+- Graduated with a specialization in Artificial Intelligence and applied ML concepts in practical projects
+- Contributed to open-source projects and collaborated with developers on GitHub
+- Continuously growing skillset and tackling challenging projects
 
 ---
 
-## 🔗 Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
   
@@ -83,7 +83,7 @@ Welcome to my GitHub profile. I'm a developer passionate about building innovati
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -95,36 +95,29 @@ Welcome to my GitHub profile. I'm a developer passionate about building innovati
 
 ---
 
-## 💻 IDEs & Platforms
+## Website & Portfolio
 
-<div align="center">
-  
-**IDEs:** VS Code • PyCharm • Jupyter  
-**Version Control:** GitHub • GitLab • Git  
-**Deployment:** Vercel • Heroku • Docker  
-**Design:** Figma • Canva  
-
-</div>
+Explore more about my work and projects at **https://charansai.site**
 
 ---
 
-## 🎯 Interests
+## Interests
 
-🔍 Learning about new advancements in AI/ML  
-📖 Reading technical blogs and research papers  
-🚀 Exploring emerging frameworks and technologies  
-🏆 Solving coding challenges on LeetCode and HackerRank  
-💭 Contributing to open-source communities  
+- Learning about new advancements in AI/ML
+- Reading technical blogs and research papers
+- Exploring emerging frameworks and technologies
+- Solving coding challenges on LeetCode and HackerRank
+- Contributing to open-source communities
 
 ---
 
 <div align="center">
   
-### ✨ Thank you for visiting my profile! ✨
+### Thank you for visiting my profile!
 
-Feel free to explore my projects, connect with me, or **collaborate on something meaningful**. Let's build something amazing together! 🚀
+Feel free to explore my projects, connect with me, or collaborate on something meaningful. Let's build something amazing together.
 
-**⭐ Star my repositories if you find them helpful!**
+**Star my repositories if you find them helpful!**
 
 </div>
 
