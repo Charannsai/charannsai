@@ -93,6 +93,8 @@ Welcome to my GitHub profile. I'm a developer passionate about building innovati
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charannsai&theme=tokyonight&hide_border=true)
 
+[![Lines of Code](https://komarev.com/ghpvc/?username=Charannsai&style=flat-square&color=informational&label=Lines%20of%20Code%20Pushed)](https://github.com/Charannsai)
+
 </div>
 
 ---
