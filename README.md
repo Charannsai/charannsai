@@ -87,9 +87,11 @@ Welcome to my GitHub profile. I'm a developer passionate about building innovati
 
 <div align="center">
   
-![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charannsai&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charannsai&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charannsai&theme=tokyonight&layout=compact&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Charannsai&theme=tokyonight&hide_border=true)
 
 </div>
 
