@@ -1,9 +1,6 @@
 # Hi, I'm Charan Sai
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Charannsai&label=Profile%20views&color=0e75b6&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Charannsai?label=Follow&style=social)](https://github.com/Charannsai)
 
 </div>
 
